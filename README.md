@@ -25,4 +25,4 @@ Ilk bir saatlik surecim su sekilde isledi:
 Diger bir saatlik surecim ise su sekilde isledi:
 1) CSS kullanilmiyormus react-native'de ve onun esleniklerini arastirdim fakat uygulama konusunda sorunlar yasadim.
 
-React-native ogrenmek istiyordum, sizin sayenizde basic bi uygulamayla tanismam ve bu uygulamamin benim icin coding challenge olarak gecmesi cok heyecan verici ve eglenceli bi deneyim oldu. Tesekkur ederim her sey icin. Umarim ilerleyen asamalarda gorusebiliriz.
+React-native ogrenmek istiyordum, sizin sayenizde basic bi uygulamayla tanismam ve bu uygulamanin benim icin coding challenge olmasi ayriyeten cok heyecan verici ve eglenceli bi deneyim oldu. Tesekkur ederim her sey icin. Umarim ilerleyen asamalarda gorusebiliriz.
